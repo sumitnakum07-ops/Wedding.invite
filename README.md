@@ -1,2 +1,0 @@
-# Wedding.invite
-Wedding invitation 
